@@ -1,0 +1,38 @@
+#root {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+header, .body, footer {
+    text-align: center;
+    padding: 12px;
+}
+
+h1, p {
+    margin: 0;
+    padding: 0;
+} 
+
+.yes {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.date {
+    font-style: italic;
+    font-weight: 700;
+}
+
+header {
+    background-color: lightblue;
+}
+
+.body {
+    background-color: white;
+    padding: 64px 12px;
+    margin: 0px 12px;
+}
+
+footer {
+    background-color: lightblue;
+}
